@@ -3,7 +3,7 @@
 ![1-Logo](Images/1-Logo.png)
 ## Introduction
 
-The US Geological Survey (USGS) aims to enhance its earthquake data visualization capabilities to effectively communicate scientific information. With a vast collection of global data on a daily basis, the USGS seeks meaningful tools to present the data in an informative and engaging manner. This visualization initiative aims to educate the public and government organizations about critical issues impacting the planet, potentially increasing support and funding for the USGS's endeavors.
+The US Geological Survey (USGS) aims to enhance its earthquake data visualisation capabilities to effectively communicate scientific information. With a vast collection of global data on a daily basis, the USGS seeks meaningful tools to present the data in an informative and engaging manner. This visualisation initiative aims to educate the public and government organisations about critical issues impacting the planet, potentially increasing support and funding for the USGS's endeavors.
 
 ## Sources of data
 
@@ -11,11 +11,11 @@ The US Geological Survey (USGS) aims to enhance its earthquake data visualizatio
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 ## Final Production Environment
-Description: The project is built with a combination of Leaflet, HTML, CSS, JavaScript, and D3 to create an interactive map visualization.
+Description: The project is built with a combination of Leaflet, HTML, CSS, JavaScript, and D3 to create an interactive map visualisation.
 
 Packages Used: Leaflet JS and D3 JavaScript
 
-The project primarily utilizes Leaflet, HTML, CSS, JavaScript, and D3 to develop an interactive map visualization. The focus is on leveraging these tools to create an engaging and informative map experience.
+The project primarily utilizes Leaflet, HTML, CSS, JavaScript, and D3 to develop an interactive map visualisation. The focus is on leveraging these tools to create an engaging and informative map experience. To see the map visualisiation click on this link: https://hamim-hussain.github.io/leaflet-challenge/
 
 ## Findings
 
@@ -26,7 +26,7 @@ The project primarily utilizes Leaflet, HTML, CSS, JavaScript, and D3 to develop
 
 ## Conclusion
 
-The analysis of the USGS earthquake data highlights the ongoing seismic activity around the world. The findings emphasize the importance of monitoring and understanding earthquakes for effective disaster management and preparedness. By visualizing and analyzing earthquake data, we can gain valuable insights into the Earth's dynamics and contribute to scientific research. The development of interactive tools and visualizations, like the one created using Leaflet, HTML, CSS, JavaScript, and D3, facilitates public awareness and better comprehension of seismic events. Such tools can aid in educating the public, informing decision-making processes, and fostering a proactive approach towards mitigating the impacts of earthquakes.
+The analysis of the USGS earthquake data highlights the ongoing seismic activity around the world. The findings emphasize the importance of monitoring and understanding earthquakes for effective disaster management and preparedness. By visualising and analysing earthquake data, we can gain valuable insights into the Earth's dynamics and contribute to scientific research. The development of interactive tools and visualisations, like the one created using Leaflet, HTML, CSS, JavaScript, and D3, facilitates public awareness and better comprehension of seismic events. Such tools can aid in educating the public, informing decision-making processes, and fostering a proactive approach towards mitigating the impacts of earthquakes.
 
 # Project Outline
 
